@@ -1,0 +1,1 @@
+Predictive Analytics and Machine Learning Using Python Assignment where we have predicted housing prices using a housing data. We have used two different machine learning models Linear Regression and Random Forest Machine leaning model. We have evaluated and comered both the models to identify the better performing one.
